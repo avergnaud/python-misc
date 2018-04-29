@@ -6,7 +6,7 @@ from pyslack import SlackClient
 
 # https://api.slack.com/apps
 
-botUserOAuthAccessToken = input("Quelle est la division ? ")
+botUserOAuthAccessToken = input("Bot User OAuth Access Token ? ")
 
 print ("Bot User OAuth Access Token : ", botUserOAuthAccessToken)
 
